@@ -1,0 +1,8 @@
+/* src/components/Gallery.css */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 images per row */
+    gap: 15px;
+    padding: 20px;
+  }
+  
